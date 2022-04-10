@@ -1,11 +1,10 @@
-package lessons.lesson3;
+package lessons.lesson3.ClassWork;
 
 
 import java.util.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.function.UnaryOperator;
 
 public class zooClub {
         public static void main(String[] args) {
